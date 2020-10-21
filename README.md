@@ -12,6 +12,9 @@
 
 An exhaustive collection of words as json files for easy access.
 
+For ideas on vocabulary you can check on a variety of websites, such as:
+https://www.merriam-webster.com/
+https://www.dictionary.com/
 
 ## How to contribute 
 
